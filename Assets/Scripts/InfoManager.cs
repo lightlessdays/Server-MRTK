@@ -5,28 +5,10 @@ using UnityEngine;
 public class InfoManager : MonoBehaviour
 {
 
-    [SerializeField] AudioSource audioUPS;
-    [SerializeField] AudioSource audioSwitch;
-    [SerializeField] AudioSource audioFirewall;
-    [SerializeField] AudioSource audioNAS;
-    [SerializeField] AudioSource audioServer;
+    [SerializeField] AudioSource audioToPlay;
 
-    public void UPSTouch()
+    public void PlayAudio()
     {
-        audioUPS.Play(0);
-    }
-
-    public void SwitchTouch()
-    {
-        audioSwitch.Play(0);
-    }
-
-    public void FirewallTouch() {
-        audioFirewall.Play(0);
-    }
-
-    public void ServerTouch()
-    {
-        audioServer.Play(0);
+        audioToPlay.Play(0);
     }
 }
