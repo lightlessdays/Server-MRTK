@@ -1,0 +1,1 @@
+C:\UWPProjects\_builds\virtualServer\finalBuildAlpha\virtualServer\virtualServer.vcxproj;arm64

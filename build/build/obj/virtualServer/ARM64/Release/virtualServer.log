@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  App.cpp
+  Main.cpp
+  UnityGenerated.cpp
+     Creating library C:\UWPProjects\_builds\virtualServer\finalBuildAlpha\build\bin\ARM64\Release\virtualServer.lib and object C:\UWPProjects\_builds\virtualServer\finalBuildAlpha\build\bin\ARM64\Release\virtualServer.exp
+  Generating code
+  Finished generating code
+  virtualServer.vcxproj -> C:\UWPProjects\_builds\virtualServer\finalBuildAlpha\build\bin\ARM64\Release\virtualServer.exe
