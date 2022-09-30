@@ -27,3 +27,11 @@ Close the window. Go to Debug and then click on Start without Debugging.
 ![image](https://user-images.githubusercontent.com/37246347/193296948-6a0377ce-83ca-4dc2-b639-3deac757ba1a.png)
 
 Wait for some time and your application will start building on Hololens. It usually takes around 3-10 minutes to build and run on Hololens.
+
+# Screenshots
+
+![Screenshot1](https://user-images.githubusercontent.com/97734029/193299400-9a56eb97-e281-4371-bee6-28fb8778bb20.jpg)
+
+![Screenshot2](https://user-images.githubusercontent.com/97734029/193299393-1feb5a70-eb50-4704-a2a4-27392a3808fa.jpg)
+
+
